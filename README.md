@@ -1,6 +1,6 @@
 # Programming-of-python
 1)   Hello, World! Program
-2)   Program to Print an Integer (Entered by the User)
+2)   Program to Print an Integer Number and Add (Entered by the User)
 3)   Program to Multiply two Floating Point Numbers
 4)   Program to Find ASCII Value of a Character
 5)   Program to Compute Quotient and Remainder
@@ -70,4 +70,4 @@
 69)  Program to Read a Line From a File and Display it
 70)  Program to Display its own Source Code as Output
 71)  Programming Code To Create Pyramid and Pattern
-72)  Program to Add Two Integers
+72) 
