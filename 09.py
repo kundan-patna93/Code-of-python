@@ -9,3 +9,7 @@ if(num%2==0):
 else:
     print("odd")
 
+"""type3"""
+num=int(input("enter no: "));
+print("even" if(num%2==0) else "odd")
+
