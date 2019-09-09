@@ -131,7 +131,7 @@ List:
                    c=c+1;
                 print(c);
         
-        10:Add item at the end of the list.nnnnnnnnnnnnnnnnnn
+        10:Add item at the end of the list.
 
         11:Add between 1 to 100 numbers, which are divisiable by 7
                 L=[1,2,3,4,5]
