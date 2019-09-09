@@ -163,16 +163,17 @@ List:
         15:write a code remove the element using It removes and returns the last element of the list.
         
         16:wirte a code reverse of all element int the list using reverse function.
-                L=[112,13,212,13,114,15,1]
-                print(L)
-                L.sort()
-                print(L);
-
-        
-        17:wite a code short the all element using short() function
+                
                 L=[112,13,212,13,114,15,1]
                 print(L)
                 L.reverse()
+                print(L);
+        
+        17:wite a code short the all element using short() function
+                
+                L=[112,13,212,13,114,15,1]
+                print(L)
+                L.sort()
                 print(L);
 
         
