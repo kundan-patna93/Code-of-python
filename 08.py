@@ -42,3 +42,8 @@ n1=n1^n2;
 n2=n1^n2;
 n1=n1^n2;
 print("n1=",n1 , "n2=",n2,"\n")
+
+print("sixth method")
+n1=eval(input("enter first no: "));
+n2=eval(input("enter second no: "));
+n1,n2=n2,n1
