@@ -4,10 +4,10 @@ ord('a');
 "To get the character encoded by an ASCII code number, use the chr() function
 chr(95)
 
-"""ASCII values character"""
+"""character to ASCII values"""
 str1=eval(input("Enter any character: "));
 print(ord(str1));
 
-""" Character to ASCII values"""
+""" ASCII values to Character"""
 str1=eval(input("Enter any ASCII: "));
 print(chr(str1));
