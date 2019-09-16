@@ -9,5 +9,5 @@ str1=eval(input("Enter any character: "));
 print(ord(str1));
 
 """ Character to ASCII values"""
-str1=eval(input("Enter any character: "));
+str1=eval(input("Enter any ASCII: "));
 print(chr(str1));
