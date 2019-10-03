@@ -1,2 +1,2 @@
 Number=int(input("Enter Number: "))
-print("Possitive No" if(Number>0) else "Negative No") 
+print("Possitive No" if(Number>0) else "Negative No" if(Number<0) else "Natural number") 
