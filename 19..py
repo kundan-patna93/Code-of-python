@@ -1,8 +1,8 @@
-num=int(input("enter no:"))
-t1=0
-t2=1
-for i in range(1,num+1):
-    print(t1)
-    nexte=t1+t2;
-    t1=t2;
-    t2=nexte;
+num=int(input("Enter no of step: "));
+f1,f2,n=0,1,o;
+while(num>0):
+    print(f1, end=',');
+    n=f1+f2;
+    f1=f2;
+    f2=n;
+    num=num-1;
