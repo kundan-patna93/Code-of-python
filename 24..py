@@ -1,11 +1,7 @@
-num1=int(input("enter base no: "));
-num2=int(input("enter power of no: "));
-'''using inbulid function'''
-print("using inbulide function",pow(num1,num2));
-
-''' without using inculid funcion'''
-cal=1;
-for i in range(1,num2+1):
-    cal=cal*num1;
-print("without using inbulide funcion",cal)
- 
+num=int(input("Enter no: "));
+rev=0;
+while(num>0):
+    rem=num%10;
+    num=num//10;
+    rev=rev*10+rem;
+print(cp,"reverse no:",rev)
