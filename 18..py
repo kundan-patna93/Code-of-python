@@ -9,5 +9,5 @@ for i in range(1,10+1,1):
  """ while loop"""
 i=1
 while(i<=10):
-    print(i,"*",num,"=",i*n)
+    print(i,"*",num,"=",i*num)
     i=i+1;
