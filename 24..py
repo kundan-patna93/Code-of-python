@@ -1,7 +1,7 @@
-num=int(input("Enter no: "));
+no=int(input("enter no: "))
 rev=0;
-while(num>0):
-    rem=num%10;
-    num=num//10;
-    rev=rev*10+rem;
-print(cp,"reverse no:",rev)
+while(no>0):
+    remi=no%10
+    no=no//10
+    rev=remi+(rev*10)
+print(rev)
