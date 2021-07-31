@@ -15,7 +15,7 @@ str1=eval(input("Enter any ASCII: "));
 print(chr(str1));
 
 """Method-2"""
-print(ord(eval(input("enter character: "))));
-print(chr(eval(input("Entet number: "))));
+print(ord(eval(input("enter character: ")))); # character to no
+print(chr(eval(input("Entet number: "))));    # no to character
 
 
