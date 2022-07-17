@@ -1,19 +1,11 @@
-#Program to Find the Length of a String.
-def find_length_string(s):
-    print("Lenght of string: ",len(s))
-    
-s="Program to Find the Length of a String."
-find_length_string(s)
+#Program to Remove all Characters in a String Except Alphabet.
+def remove_all_string_execepte_alphabet(s):
+    for ch in s:
+        if ch.isalpha():
+            print(ch,end="")
 
-
-
-
-
-
-
-
-
-
+s="Pr1589 Remove 125s in a S#$ing Except Alphabet."
+remove_all_string_execepte_alphabet(s)
 
 
 
