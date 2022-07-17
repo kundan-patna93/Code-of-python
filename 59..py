@@ -1,23 +1,7 @@
-#Program to Copy String Without using inbulide method.
-def copy_string(s):
-    s1=""
-    for ch in s:
-        s1=s1+ch
-    print(s1)
-s="Program to Copy String Without using inbulide method."
-copy_string(s)
+#Program to Concatenate Two Strings.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+def concatination_string(s1,s2):
+    print(s1+s2)
+s1='hello '
+s2='how are you?'
+concatination_string(s1,s2)
