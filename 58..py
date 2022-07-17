@@ -1,7 +1,21 @@
-#Program to Concatenate Two Strings.
+#Program to Find the Length of a String.
+def find_length_string(s):
+    print("Lenght of string: ",len(s))
+    
+s="Program to Find the Length of a String."
+find_length_string(s)
 
-def concatination_string(s1,s2):
-    print(s1+s2)
-s1='hello '
-s2='how are you?'
-concatination_string(s1,s2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
