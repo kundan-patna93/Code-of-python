@@ -49,23 +49,23 @@
 48)  Program to Add Two Matrix Using Multi-dimensional Arrays
 49)  Program to Multiply to Matrix Using Multi-dimensional Arrays
 50)  Program to Find Transpose of a Matrix
-51)  Program to Multiply two Matrices by Passing Matrix to a Function
-52)  Program to Access Elements of an Array Using Pointer
-53)  Program Swap Numbers in Cyclic Order Using Call by Reference
-54)  Program to Find Largest Number Using Dynamic Memory Allocation
-55)  Program to Find the Frequency of Characters in a String
-56)  Program to Count the Number of Vowels, Consonants and so on
-57)  Program to Remove all Characters in a String Except Alphabet
-58)  Program to Find the Length of a String
-59)  Program to Concatenate Two Strings
-60)  Program to Copy String Without Using strcpy()
-61)  Program to Sort Elements in Lexicographical Order (Dictionary Order)
-62)  Program to Store Information of a Student Using Structure
-63)  Program to Add Two Distances (in inch-feet) System Using Structures
-64)  Program to Add Two Complex Numbers by Passing Structure to a Function
-65)  Program to Calculate Difference Between Two Time Periods
-66)  Program to Store Information of Students Using Structure
-67)  Program to Store Information Using Structures with Dynamically Memory Allocation
+51)  
+52)  
+53)  
+54)  
+55)  Program to Find the Frequency of Characters in a String.
+56)  Program to Count the Number of Vowels, Consonants and so on.
+57)  Program to Remove all Characters in a String Except Alphabet.
+58)  Program to Find the Length of a String.
+59)  Program to Concatenate Two Strings.
+60)  Program to Copy String Without using inbulide method.
+61)  
+62)  
+63)  
+64)  
+65)  Program to Calculate Difference Between Two Time Periods.
+66)  
+67)  
 68)  Program to Write a Sentence to a File
 69)  Program to Read a Line From a File and Display it
 70)  Program to Display its own Source Code as Output
